@@ -5,9 +5,9 @@ let yearOfBirth = 2002
 // число рождения
 let birthNumber = 18
 // количество родных братьев
-let NumbersBrothers = 3
+let numbersBrothers = 3
 // количество родных систер
-let NumbersSisters = 1
+let numbersSisters = 1
 // количество людей в семье
 let numberFamily = 6
 // стоимость проезда до места обучения
@@ -19,7 +19,7 @@ let dollar = 60
 // курс евро
 let euro = 59
 // курс биткоина
-let Bitcoin = 1200000 
+let aitcoin = 1200000 
 
 // текущий год минус год рождуния
 let minusYear = year - yearOfBirth
@@ -38,4 +38,4 @@ let minusFamily = numberFamily - NumbersBrothers - NumbersSisters
 // 0 деленный на возраст
 let divideAge = 0 / age
 // 35 минус возраст
-let AgeMinus = 35 - age
+let ageMinus = 35 - age
