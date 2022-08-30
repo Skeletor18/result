@@ -26,7 +26,7 @@ let minusYear = year - yearOfBirth
 // текущий год минус возраст
 let minusAge = year - age
 // количество родных братьев плюс количество родных систер
-let plusSistersOfBrothers = NumbersBrothers + NumbersSisters
+let plusSistersOfBrothers = numbersBrothers + numbersSisters
 // курс евро умножить на 1000
 let multiplyEuro = euro * 1000
 // курс доллврв умножить на 2.5
@@ -34,7 +34,7 @@ let divideDollar = dollar * 2.5
 // стоимость проезда проезда разделить на курс доллара
 let fareDivideDollar = fare / dollar
 // количество людей в семье минус количество братьев минус количество систер
-let minusFamily = numberFamily - NumbersBrothers - NumbersSisters
+let minusFamily = numberFamily - numbersBrothers - numbersSisters
 // 0 деленный на возраст
 let divideAge = 0 / age
 // 35 минус возраст
