@@ -51,7 +51,7 @@ const email = "admin@intocode.ru";
   Тебе понадобится метод indexOf: https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf
 */
 // тут твой код
-if (email.tapeof('@') != -1) {
+if (email.indexOf('@') == -1) {
     console.log("неверный эмайл")
 } else {
     console.log("ты зареган")
